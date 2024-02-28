@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ecom-app-angular.iml" filepath="$PROJECT_DIR$/ecom-app-angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service_Keycloak-OAuth2-OIDC_angular_docker.iml" filepath="$PROJECT_DIR$/micro-service_Keycloak-OAuth2-OIDC_angular_docker.iml" />
+    </modules>
+  </component>
+</project>
